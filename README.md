@@ -303,7 +303,7 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 
 1. Pick a bot above and open its **Add to Grok Bot** link.
 2. The x.ai share page opens the Grok Bot desktop app. No app yet? Download it for macOS or Windows from that page, then click open the app.
-3. Confirm in the Grok Bot app to add the bot to your bots.
+3. In Grok Bot, review the bot's context and integrations, then click **Add Bot**. Connect your own accounts for any plugins it uses.
 
 Want your bot listed? Submit it at [grokbotsmarket.com/submit](https://grokbotsmarket.com/submit?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots). Pull requests are not merged directly.
 
