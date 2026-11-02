@@ -4,7 +4,7 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**26 bots · 26 showcases · updated 2026-11-01**
+**26 bots · 26 showcases · updated 2026-11-02**
 
 ## Contents
 
@@ -312,4 +312,4 @@ Want your bot listed? Submit it at [grokbotsmarket.com/submit](https://grokbotsm
 Every screenshot and video belongs to the person who posted it on X; each entry links to the original post.
 If one of them is yours and you want it removed, open its page on [grokbotsmarket.com](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots) and click **Request removal**.
 
-Independent community directory. Not affiliated with xAI.
+Independent community directory. Not affiliated with xAI or SpaceXSI.
