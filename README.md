@@ -4,7 +4,7 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**26 bots · 26 showcases · updated 2026-11-02**
+**27 bots · 27 showcases · updated 2026-11-07**
 
 ## Contents
 
@@ -13,7 +13,7 @@ Real Grok Bot runs shared on X, each with its share link.
 - [Daily Briefing](#daily-briefing) (2)
 - [News Monitoring](#news-monitoring) (2)
 - [Personal Finance](#personal-finance) (3)
-- [Research](#research) (6)
+- [Research](#research) (7)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (3)
 - [Social Media](#social-media) (3)
@@ -198,6 +198,15 @@ by <a href="https://x.com/Phil_Holland/status/2116630078809362616">@Phil_Holland
 <a href="https://x.ai/bot/MCxw03O1xLB7lH7uX0W5u">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/jk/2118933463424450780?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jk/mw5z64rj2jxe2x.jpg" width="240" alt="JK 数字花园"></a><br>
+<a href="https://grokbotsmarket.com/bots/jk?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>JK 数字花园</b></a><br>
+Save posts and connect notes across flomo and local Obsidian.<br>
+by <a href="https://x.com/Lonely__MH/status/2118933463424450780">@Jackywine</a><br>
+<a href="https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Sales Outreach</h2>
@@ -272,6 +281,7 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/jk/2118933463424450780?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jk/mw5z64rj2jxe2x.jpg" width="48" alt=""> JK 数字花园</a>
 - <a href="https://grokbotsmarket.com/showcase/holiday-bot/2116658519642362280?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/holiday-bot/2116658519642362280/0.jpg" width="48" alt=""> Holiday Bot</a>
 - <a href="https://grokbotsmarket.com/showcase/map4-client-prospector/2116559378287329688?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/map4-client-prospector/2116559378287329688/0.jpg" width="48" alt=""> Map4 Client Prospector</a>
 - <a href="https://grokbotsmarket.com/showcase/follow-finder/2116667126819807694?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/follow-finder/2116667126819807694/0.jpg" width="48" alt=""> Follow Finder</a>
