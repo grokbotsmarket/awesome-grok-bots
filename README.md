@@ -4,15 +4,15 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**27 bots · 27 showcases · updated 2026-11-07**
+**29 bots · 29 showcases · updated 2026-11-09**
 
 ## Contents
 
-- [Coding](#coding) (2)
+- [Coding](#coding) (3)
 - [Content Writing](#content-writing) (4)
 - [Daily Briefing](#daily-briefing) (2)
 - [News Monitoring](#news-monitoring) (2)
-- [Personal Finance](#personal-finance) (3)
+- [Personal Finance](#personal-finance) (4)
 - [Research](#research) (7)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (3)
@@ -38,6 +38,13 @@ by <a href="https://x.com/ryantyre/status/2116393990367195217">@ryantyre</a><br>
 Scans your site for SEO and AI-readiness issues, then fixes them<br>
 by <a href="https://x.com/MichaelGannotti/status/2116556030268080528">@MichaelGannotti</a><br>
 <a href="https://x.ai/bot/qdDeWpXZufETBVcM06ysH">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/assistant-for-home-assistant/2112166029212176503?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/assistant-for-home-assistant/mw60wf0gz1rjn9.jpg" width="240" alt="Assistant for Home Assistant"></a><br>
+<a href="https://grokbotsmarket.com/bots/assistant-for-home-assistant?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Assistant for Home Assistant</b></a><br>
+Catches device, camera, update, and automation problems in Home Assistant.<br>
+by <a href="https://x.com/BowieHole/status/2112166029212176503">@BowieHole</a><br>
+<a href="https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -145,6 +152,15 @@ by <a href="https://x.com/JPipo86/status/2116538184674758927">@JPipo86</a><br>
 Helps you read medical bills and spot common mistakes<br>
 by <a href="https://x.com/iustinafractals/status/2116684394014626063">@iustinafractals</a><br>
 <a href="https://x.ai/bot/ZGjGqInr-ExH8kRxqIR9A">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/am-i-covered/2105268434775011363?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/am-i-covered/mw60ug0i2kduf0.jpg" width="240" alt="Am I Covered?"></a><br>
+<a href="https://grokbotsmarket.com/bots/am-i-covered?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Am I Covered?</b></a><br>
+Explains US insurance documents in plain English or Spanish.<br>
+by <a href="https://x.com/CantBeatDees/status/2105268434775011363">@CantBeatDees</a><br>
+<a href="https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -281,6 +297,8 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/assistant-for-home-assistant/2112166029212176503?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/assistant-for-home-assistant/mw60wf0gz1rjn9.jpg" width="48" alt=""> Assistant for Home Assistant</a>
+- <a href="https://grokbotsmarket.com/showcase/am-i-covered/2105268434775011363?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/am-i-covered/mw60ug0i2kduf0.jpg" width="48" alt=""> Am I Covered?</a>
 - <a href="https://grokbotsmarket.com/showcase/jk/2118933463424450780?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jk/mw5z64rj2jxe2x.jpg" width="48" alt=""> JK 数字花园</a>
 - <a href="https://grokbotsmarket.com/showcase/holiday-bot/2116658519642362280?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/holiday-bot/2116658519642362280/0.jpg" width="48" alt=""> Holiday Bot</a>
 - <a href="https://grokbotsmarket.com/showcase/map4-client-prospector/2116559378287329688?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/map4-client-prospector/2116559378287329688/0.jpg" width="48" alt=""> Map4 Client Prospector</a>
