@@ -4,7 +4,7 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**29 bots · 29 showcases · updated 2026-11-09**
+**32 bots · 32 showcases · updated 2026-11-10**
 
 ## Contents
 
@@ -13,7 +13,7 @@ Real Grok Bot runs shared on X, each with its share link.
 - [Daily Briefing](#daily-briefing) (2)
 - [News Monitoring](#news-monitoring) (2)
 - [Personal Finance](#personal-finance) (4)
-- [Research](#research) (7)
+- [Research](#research) (10)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (3)
 - [Social Media](#social-media) (3)
@@ -216,11 +216,34 @@ by <a href="https://x.com/Phil_Holland/status/2116630078809362616">@Phil_Holland
 </tr>
 <tr>
 <td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/bots-mesh/2100240172717678753?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/free-bots-mesh/mw611ienhx3f10.jpg" width="240" alt="Bots Mesh"></a><br>
+<a href="https://grokbotsmarket.com/bots/bots-mesh?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Bots Mesh</b></a><br>
+Join a virtual bot city, buy land, build a home, and work for bits.<br>
+by <a href="https://x.com/Daniel_Farinax/status/2100240172717678753">@Daniel_Farinax</a><br>
+<a href="https://x.ai/bot/Slp4qX0H0kjgyRvMCSh5s">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
 <a href="https://grokbotsmarket.com/showcase/jk/2118933463424450780?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jk/mw5z64rj2jxe2x.jpg" width="240" alt="JK 数字花园"></a><br>
 <a href="https://grokbotsmarket.com/bots/jk?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>JK 数字花园</b></a><br>
 Save posts and connect notes across flomo and local Obsidian.<br>
 by <a href="https://x.com/Lonely__MH/status/2118933463424450780">@Jackywine</a><br>
 <a href="https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/space-monkey/2100667579220333031?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/space-monkey/mw6111tiy46eaz.jpg" width="240" alt="Space Monkey"></a><br>
+<a href="https://grokbotsmarket.com/bots/space-monkey?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Space Monkey</b></a><br>
+Creates checklist launch briefs for orbital and suborbital flights.<br>
+by <a href="https://x.com/monomyth/status/2100667579220333031">@monomyth</a><br>
+<a href="https://x.ai/bot/438hek2SIHhpHn9FDlQCe">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/motos-researcher/2099977026048229407?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/motos-researcher/mw611qearrw36k.jpg" width="240" alt="Motos researcher"></a><br>
+<a href="https://grokbotsmarket.com/bots/motos-researcher?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Motos researcher</b></a><br>
+Finds bargain classic bikes and scores paperwork costs.<br>
+by <a href="https://x.com/0x_tommy9/status/2099977026048229407">@0x_tommy9</a><br>
+<a href="https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -297,6 +320,9 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/motos-researcher/2099977026048229407?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/motos-researcher/mw611qearrw36k.jpg" width="48" alt=""> Motos researcher</a>
+- <a href="https://grokbotsmarket.com/showcase/bots-mesh/2100240172717678753?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/free-bots-mesh/mw611ienhx3f10.jpg" width="48" alt=""> Bots Mesh</a>
+- <a href="https://grokbotsmarket.com/showcase/space-monkey/2100667579220333031?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/space-monkey/mw6111tiy46eaz.jpg" width="48" alt=""> Space Monkey</a>
 - <a href="https://grokbotsmarket.com/showcase/assistant-for-home-assistant/2112166029212176503?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/assistant-for-home-assistant/mw60wf0gz1rjn9.jpg" width="48" alt=""> Assistant for Home Assistant</a>
 - <a href="https://grokbotsmarket.com/showcase/am-i-covered/2105268434775011363?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/am-i-covered/mw60ug0i2kduf0.jpg" width="48" alt=""> Am I Covered?</a>
 - <a href="https://grokbotsmarket.com/showcase/jk/2118933463424450780?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jk/mw5z64rj2jxe2x.jpg" width="48" alt=""> JK 数字花园</a>
@@ -324,8 +350,6 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 - <a href="https://grokbotsmarket.com/showcase/nichesitewriter/2116565338934632873?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/nichesitewriter/2116565338934632873/0.jpg" width="48" alt=""> NicheSiteWriter</a>
 - <a href="https://grokbotsmarket.com/showcase/headhunter/2116599836732506281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/headhunter/2116599836732506281/0.jpg" width="48" alt=""> Headhunter</a>
 - <a href="https://grokbotsmarket.com/showcase/goodquotes/2116361057270735194?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/goodquotes/2116361057270735194/0.jpg" width="48" alt=""> GoodQuotes</a>
-- <a href="https://grokbotsmarket.com/showcase/shelf/2116584737141608869?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/shelf/2116584737141608869/0.jpg" width="48" alt=""> Shelf</a>
-- <a href="https://grokbotsmarket.com/showcase/fleet-lead/2116560838232563997?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/fleet-lead/2116560838232563997/0-poster.jpg" width="48" alt=""> Fleet Lead</a>
 
 ## How to use
 
