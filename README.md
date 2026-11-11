@@ -4,19 +4,19 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**32 bots · 32 showcases · updated 2026-11-10**
+**36 bots · 36 showcases · updated 2026-11-11**
 
 ## Contents
 
-- [Coding](#coding) (3)
-- [Content Writing](#content-writing) (4)
+- [Coding](#coding) (4)
+- [Content Writing](#content-writing) (5)
 - [Daily Briefing](#daily-briefing) (2)
-- [News Monitoring](#news-monitoring) (2)
+- [News Monitoring](#news-monitoring) (4)
 - [Personal Finance](#personal-finance) (4)
-- [Research](#research) (10)
+- [Research](#research) (12)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (3)
-- [Social Media](#social-media) (3)
+- [Social Media](#social-media) (4)
 - [Latest](#latest)
 - [How to use](#how-to-use)
 - [Credits](#credits)
@@ -45,6 +45,15 @@ by <a href="https://x.com/MichaelGannotti/status/2116556030268080528">@MichaelGa
 Catches device, camera, update, and automation problems in Home Assistant.<br>
 by <a href="https://x.com/BowieHole/status/2112166029212176503">@BowieHole</a><br>
 <a href="https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/security/2119113657527472328?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/security/mw72kcm65tqql5.jpg" width="240" alt="Security"></a><br>
+<a href="https://grokbotsmarket.com/bots/security?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Security</b></a><br>
+Watch for new security vulnerabilities and flag affected GitHub repos.<br>
+by <a href="https://x.com/kr0der/status/2119113657527472328">@kr0der</a><br>
+<a href="https://x.ai/bot/th43tWDLpxlD2CwTv0FeN">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -82,6 +91,13 @@ by <a href="https://x.com/bfrench/status/2116597771973382254">@bfrench</a><br>
 Drafts today's post in your own voice<br>
 by <a href="https://x.com/JPipo86/status/2116330562072047775">@JPipo86</a><br>
 <a href="https://x.ai/bot/onLaBYQxzixgBzJgDZ18u">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/media-manager/2103077019164795281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/media-manager/mw6149g08svlso.jpg" width="240" alt="Media Manager"></a><br>
+<a href="https://grokbotsmarket.com/bots/media-manager?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Media Manager</b></a><br>
+Handles YouTube transcripts, captions, chapters, titles, and thumbnails.<br>
+by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
+<a href="https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -124,6 +140,22 @@ by <a href="https://x.com/grokshroom/status/2116361057270735194">@grokshroom</a>
 Watches game prices and tells you when to buy<br>
 by <a href="https://x.com/JPipo86/status/2116530642473390088">@JPipo86</a><br>
 <a href="https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/civic-radar/2101282147369714157?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/civic-radar/mw614m8078xj4y.jpg" width="240" alt="Civic Radar"></a><br>
+<a href="https://grokbotsmarket.com/bots/civic-radar?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Civic Radar</b></a><br>
+Maps public records to help you spot changes on your block.<br>
+by <a href="https://x.com/ChrisPadrick/status/2101282147369714157">@ChrisPadrick</a><br>
+<a href="https://x.ai/bot/18ceCocmLssbw59nEPwhr">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/security/2119113657527472328?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/security/mw72kcm65tqql5.jpg" width="240" alt="Security"></a><br>
+<a href="https://grokbotsmarket.com/bots/security?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Security</b></a><br>
+Watch for new security vulnerabilities and flag affected GitHub repos.<br>
+by <a href="https://x.com/kr0der/status/2119113657527472328">@kr0der</a><br>
+<a href="https://x.ai/bot/th43tWDLpxlD2CwTv0FeN">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -239,11 +271,25 @@ by <a href="https://x.com/monomyth/status/2100667579220333031">@monomyth</a><br>
 </tr>
 <tr>
 <td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/civic-radar/2101282147369714157?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/civic-radar/mw614m8078xj4y.jpg" width="240" alt="Civic Radar"></a><br>
+<a href="https://grokbotsmarket.com/bots/civic-radar?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Civic Radar</b></a><br>
+Maps public records to help you spot changes on your block.<br>
+by <a href="https://x.com/ChrisPadrick/status/2101282147369714157">@ChrisPadrick</a><br>
+<a href="https://x.ai/bot/18ceCocmLssbw59nEPwhr">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
 <a href="https://grokbotsmarket.com/showcase/motos-researcher/2099977026048229407?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/motos-researcher/mw611qearrw36k.jpg" width="240" alt="Motos researcher"></a><br>
 <a href="https://grokbotsmarket.com/bots/motos-researcher?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Motos researcher</b></a><br>
 Finds bargain classic bikes and scores paperwork costs.<br>
 by <a href="https://x.com/0x_tommy9/status/2099977026048229407">@0x_tommy9</a><br>
 <a href="https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/tek-tribe/2103781497681707043?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/tek-tribe/mw613rf4hkc0i8.jpg" width="240" alt="Tek Tribe"></a><br>
+<a href="https://grokbotsmarket.com/bots/tek-tribe?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Tek Tribe</b></a><br>
+Turn your tech tools into a cavebot tribe and your to-dos into quests.<br>
+by <a href="https://x.com/Tekk_Tribe/status/2103781497681707043">@Tekk_Tribe</a><br>
+<a href="https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -316,10 +362,23 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 <a href="https://x.ai/bot/szTOTq23uRdBePSzOTS60">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/media-manager/2103077019164795281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/media-manager/mw6149g08svlso.jpg" width="240" alt="Media Manager"></a><br>
+<a href="https://grokbotsmarket.com/bots/media-manager?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Media Manager</b></a><br>
+Handles YouTube transcripts, captions, chapters, titles, and thumbnails.<br>
+by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
+<a href="https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/security/2119113657527472328?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/security/mw72kcm65tqql5.jpg" width="48" alt=""> Security</a>
+- <a href="https://grokbotsmarket.com/showcase/civic-radar/2101282147369714157?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/civic-radar/mw614m8078xj4y.jpg" width="48" alt=""> Civic Radar</a>
+- <a href="https://grokbotsmarket.com/showcase/media-manager/2103077019164795281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/media-manager/mw6149g08svlso.jpg" width="48" alt=""> Media Manager</a>
+- <a href="https://grokbotsmarket.com/showcase/tek-tribe/2103781497681707043?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/tek-tribe/mw613rf4hkc0i8.jpg" width="48" alt=""> Tek Tribe</a>
 - <a href="https://grokbotsmarket.com/showcase/motos-researcher/2099977026048229407?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/motos-researcher/mw611qearrw36k.jpg" width="48" alt=""> Motos researcher</a>
 - <a href="https://grokbotsmarket.com/showcase/bots-mesh/2100240172717678753?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/free-bots-mesh/mw611ienhx3f10.jpg" width="48" alt=""> Bots Mesh</a>
 - <a href="https://grokbotsmarket.com/showcase/space-monkey/2100667579220333031?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/space-monkey/mw6111tiy46eaz.jpg" width="48" alt=""> Space Monkey</a>
@@ -346,10 +405,6 @@ by <a href="https://x.com/GlennHasABeard/status/2116667126819807694">@GlennHasAB
 - <a href="https://grokbotsmarket.com/showcase/jenny-genealogy/2116581326493032763?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jenny-genealogy/2116581326493032763/0.jpg" width="48" alt=""> Jenny Genealogy</a>
 - <a href="https://grokbotsmarket.com/showcase/innkeeper/2116589770130555121?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/innkeeper/2116589770130555121/0.jpg" width="48" alt=""> Innkeeper</a>
 - <a href="https://grokbotsmarket.com/showcase/foreman/2116624147942121666?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/foreman/2116624147942121666/0.jpg" width="48" alt=""> Foreman</a>
-- <a href="https://grokbotsmarket.com/showcase/priority-erp-assistant/2116595931541803296?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/priority-erp-assistant/2116595931541803296/0-cover.jpg" width="48" alt=""> Priority ERP Assistant</a>
-- <a href="https://grokbotsmarket.com/showcase/nichesitewriter/2116565338934632873?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/nichesitewriter/2116565338934632873/0.jpg" width="48" alt=""> NicheSiteWriter</a>
-- <a href="https://grokbotsmarket.com/showcase/headhunter/2116599836732506281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/headhunter/2116599836732506281/0.jpg" width="48" alt=""> Headhunter</a>
-- <a href="https://grokbotsmarket.com/showcase/goodquotes/2116361057270735194?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/goodquotes/2116361057270735194/0.jpg" width="48" alt=""> GoodQuotes</a>
 
 ## How to use
 
