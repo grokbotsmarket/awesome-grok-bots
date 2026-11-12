@@ -4,18 +4,18 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**36 bots · 36 showcases · updated 2026-11-11**
+**40 bots · 40 showcases · updated 2026-11-12**
 
 ## Contents
 
 - [Coding](#coding) (4)
-- [Content Writing](#content-writing) (5)
-- [Daily Briefing](#daily-briefing) (2)
+- [Content Writing](#content-writing) (6)
+- [Daily Briefing](#daily-briefing) (3)
 - [News Monitoring](#news-monitoring) (4)
-- [Personal Finance](#personal-finance) (4)
-- [Research](#research) (12)
+- [Personal Finance](#personal-finance) (5)
+- [Research](#research) (15)
 - [Sales Outreach](#sales-outreach) (1)
-- [Scheduling](#scheduling) (3)
+- [Scheduling](#scheduling) (4)
 - [Social Media](#social-media) (4)
 - [Latest](#latest)
 - [How to use](#how-to-use)
@@ -99,6 +99,13 @@ Handles YouTube transcripts, captions, chapters, titles, and thumbnails.<br>
 by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 <a href="https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/video-creator/2112941787526447195?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/video-creator/mw7cqlyfcuq78m.jpg" width="240" alt="Video Creator"></a><br>
+<a href="https://grokbotsmarket.com/bots/video-creator?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Video Creator</b></a><br>
+Turns a topic into an animated explainer and uploads it unlisted to YouTube.<br>
+by <a href="https://x.com/farzyness/status/2112941787526447195">@farzyness</a><br>
+<a href="https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -119,6 +126,13 @@ by <a href="https://x.com/CaliLumberJack/status/2116560838232563997">@CaliLumber
 Counts down to each holiday, dressed for the occasion<br>
 by <a href="https://x.com/Bro7388/status/2116658519642362280">@Bro7388</a><br>
 <a href="https://x.ai/bot/wR8vyi6pNYipW8-vJJ8n-">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/daily-lingo/2107693369665487052?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/daily-lingo/mw7cl38kztxm1p.png" width="240" alt="Daily Lingo"></a><br>
+<a href="https://grokbotsmarket.com/bots/daily-lingo?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Daily Lingo</b></a><br>
+Practice a language daily with interest-led lessons, review, and conversation.<br>
+by <a href="https://x.com/BTC_Yogi/status/2107693369665487052">@BTC_Yogi</a><br>
+<a href="https://x.ai/bot/pegWv3F8t7KSEwQ3sxd6A">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -193,6 +207,13 @@ by <a href="https://x.com/iustinafractals/status/2116684394014626063">@iustinafr
 Explains US insurance documents in plain English or Spanish.<br>
 by <a href="https://x.com/CantBeatDees/status/2105268434775011363">@CantBeatDees</a><br>
 <a href="https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/presents/2108677563644072263?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/presents/mw7chpy30mkqhd.jpg" width="240" alt="Presents"></a><br>
+<a href="https://grokbotsmarket.com/bots/presents?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Presents</b></a><br>
+Organize gifts by person and track weekly price changes.<br>
+by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
+<a href="https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -292,6 +313,29 @@ by <a href="https://x.com/Tekk_Tribe/status/2103781497681707043">@Tekk_Tribe</a>
 <a href="https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/device-health-check-bot/2119118790583796069?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/device-health-check-bot/mw6y6ll3sf2f3k.jpg" width="240" alt="Device Health Check Bot"></a><br>
+<a href="https://grokbotsmarket.com/bots/device-health-check-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Device Health Check Bot</b></a><br>
+Audit your phone and laptop, then approve fixes one at a time.<br>
+by <a href="https://x.com/BrianRoemmele/status/2119118790583796069">@BrianRoemmele</a><br>
+<a href="https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/presents/2108677563644072263?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/presents/mw7chpy30mkqhd.jpg" width="240" alt="Presents"></a><br>
+<a href="https://grokbotsmarket.com/bots/presents?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Presents</b></a><br>
+Organize gifts by person and track weekly price changes.<br>
+by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
+<a href="https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/video-creator/2112941787526447195?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/video-creator/mw7cqlyfcuq78m.jpg" width="240" alt="Video Creator"></a><br>
+<a href="https://grokbotsmarket.com/bots/video-creator?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Video Creator</b></a><br>
+Turns a topic into an animated explainer and uploads it unlisted to YouTube.<br>
+by <a href="https://x.com/farzyness/status/2112941787526447195">@farzyness</a><br>
+<a href="https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Sales Outreach</h2>
@@ -332,6 +376,15 @@ by <a href="https://x.com/ALL_Jonah/status/2116579704513982832">@ALL_Jonah</a><b
 Handles rent, renewals, maintenance and screening for small landlords<br>
 by <a href="https://x.com/ALL_Jonah/status/2116594803542458578">@ALL_Jonah</a><br>
 <a href="https://x.ai/bot/cMtHljXnkIqtyUf20XbIE">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/presents/2108677563644072263?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/presents/mw7chpy30mkqhd.jpg" width="240" alt="Presents"></a><br>
+<a href="https://grokbotsmarket.com/bots/presents?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Presents</b></a><br>
+Organize gifts by person and track weekly price changes.<br>
+by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
+<a href="https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -375,6 +428,10 @@ by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/daily-lingo/2107693369665487052?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/daily-lingo/mw7cl38kztxm1p.png" width="48" alt=""> Daily Lingo</a>
+- <a href="https://grokbotsmarket.com/showcase/device-health-check-bot/2119118790583796069?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/device-health-check-bot/mw6y6ll3sf2f3k.jpg" width="48" alt=""> Device Health Check Bot</a>
+- <a href="https://grokbotsmarket.com/showcase/video-creator/2112941787526447195?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/video-creator/mw7cqlyfcuq78m.jpg" width="48" alt=""> Video Creator</a>
+- <a href="https://grokbotsmarket.com/showcase/presents/2108677563644072263?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/presents/mw7chpy30mkqhd.jpg" width="48" alt=""> Presents</a>
 - <a href="https://grokbotsmarket.com/showcase/security/2119113657527472328?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/security/mw72kcm65tqql5.jpg" width="48" alt=""> Security</a>
 - <a href="https://grokbotsmarket.com/showcase/civic-radar/2101282147369714157?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/civic-radar/mw614m8078xj4y.jpg" width="48" alt=""> Civic Radar</a>
 - <a href="https://grokbotsmarket.com/showcase/media-manager/2103077019164795281?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/media-manager/mw6149g08svlso.jpg" width="48" alt=""> Media Manager</a>
@@ -401,10 +458,6 @@ by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 - <a href="https://grokbotsmarket.com/showcase/subscription-tracker/2116538184674758927?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/subscription-tracker/2116538184674758927/0.jpg" width="48" alt=""> Subscription Tracker</a>
 - <a href="https://grokbotsmarket.com/showcase/credit-repair-coach/2116561333378560212?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/credit-repair-coach/2116561333378560212/0-poster.jpg" width="48" alt=""> Credit Repair Coach</a>
 - <a href="https://grokbotsmarket.com/showcase/child-safety-coach/2116630078809362616?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/child-safety-coach/2116630078809362616/0-cover.jpg" width="48" alt=""> 🔐 Child Safety Coach</a>
-- <a href="https://grokbotsmarket.com/showcase/flip-checker/2116515534963368216?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/flip-checker/2116515534963368216/0.jpg" width="48" alt=""> Flip Checker</a>
-- <a href="https://grokbotsmarket.com/showcase/jenny-genealogy/2116581326493032763?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jenny-genealogy/2116581326493032763/0.jpg" width="48" alt=""> Jenny Genealogy</a>
-- <a href="https://grokbotsmarket.com/showcase/innkeeper/2116589770130555121?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/innkeeper/2116589770130555121/0.jpg" width="48" alt=""> Innkeeper</a>
-- <a href="https://grokbotsmarket.com/showcase/foreman/2116624147942121666?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/foreman/2116624147942121666/0.jpg" width="48" alt=""> Foreman</a>
 
 ## How to use
 
