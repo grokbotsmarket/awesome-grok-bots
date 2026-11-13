@@ -4,19 +4,19 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**40 bots · 40 showcases · updated 2026-11-12**
+**44 bots · 44 showcases · updated 2026-11-13**
 
 ## Contents
 
 - [Coding](#coding) (4)
-- [Content Writing](#content-writing) (6)
+- [Content Writing](#content-writing) (7)
 - [Daily Briefing](#daily-briefing) (3)
 - [News Monitoring](#news-monitoring) (4)
-- [Personal Finance](#personal-finance) (5)
-- [Research](#research) (15)
+- [Personal Finance](#personal-finance) (6)
+- [Research](#research) (16)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (4)
-- [Social Media](#social-media) (4)
+- [Social Media](#social-media) (5)
 - [Latest](#latest)
 - [How to use](#how-to-use)
 - [Credits](#credits)
@@ -105,6 +105,15 @@ by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 Turns a topic into an animated explainer and uploads it unlisted to YouTube.<br>
 by <a href="https://x.com/farzyness/status/2112941787526447195">@farzyness</a><br>
 <a href="https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/rosie-cards/2120947384893194750?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/rosie-cards/mwe8nx4gjg0vuc.jpg" width="240" alt="Rosie · Cards"></a><br>
+<a href="https://grokbotsmarket.com/bots/rosie-cards?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Rosie · Cards</b></a><br>
+Designs email greeting cards and waits for your approval before sending.<br>
+by <a href="https://x.com/papagatorz/status/2120947384893194750">@papagatorz</a><br>
+<a href="https://x.ai/bot/2tv8gzN0FKhkKUExZPKHE">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -214,6 +223,13 @@ by <a href="https://x.com/CantBeatDees/status/2105268434775011363">@CantBeatDees
 Organize gifts by person and track weekly price changes.<br>
 by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
 <a href="https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/ai-usage-hub/2114850616824516608?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/ai-usage-hub/mwctcems3z1c97.jpg" width="240" alt="AI Usage Hub"></a><br>
+<a href="https://grokbotsmarket.com/bots/ai-usage-hub?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>AI Usage Hub</b></a><br>
+Track AI plan usage, reset times, and bot task costs in one dashboard.<br>
+by <a href="https://x.com/danielhung/status/2114850616824516608">@danielhung</a><br>
+<a href="https://x.ai/bot/qmENesX2cLr2UHqkEEqMS">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -336,6 +352,15 @@ by <a href="https://x.com/farzyness/status/2112941787526447195">@farzyness</a><b
 <a href="https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/plan-precheck-bot/2103338911821111325?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/plan-precheck-bot/mw613xwduu3qou.jpg" width="240" alt="Plan Precheck Bot"></a><br>
+<a href="https://grokbotsmarket.com/bots/plan-precheck-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Plan Precheck Bot</b></a><br>
+Flag plan issues and prepare marked-up drawings for licensed review.<br>
+by <a href="https://x.com/TinaDS61/status/2103338911821111325">@TinaDS61</a><br>
+<a href="https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Sales Outreach</h2>
@@ -423,11 +448,22 @@ Handles YouTube transcripts, captions, chapters, titles, and thumbnails.<br>
 by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 <a href="https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/mural/2114888723397562434?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/mural/mwctctls662mks.jpg" width="240" alt="Mural"></a><br>
+<a href="https://grokbotsmarket.com/bots/mural?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Mural</b></a><br>
+Create large, detailed images, wallpaper packs, and print-ready posters.<br>
+by <a href="https://x.com/SuddenlyJon/status/2114888723397562434">@SuddenlyJon</a><br>
+<a href="https://x.ai/bot/Obg7rtHsF-I81kR1P8BFC">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/mural/2114888723397562434?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/mural/mwctctls662mks.jpg" width="48" alt=""> Mural</a>
+- <a href="https://grokbotsmarket.com/showcase/ai-usage-hub/2114850616824516608?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/ai-usage-hub/mwctcems3z1c97.jpg" width="48" alt=""> AI Usage Hub</a>
+- <a href="https://grokbotsmarket.com/showcase/rosie-cards/2120947384893194750?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/rosie-cards/mwe8nx4gjg0vuc.jpg" width="48" alt=""> Rosie · Cards</a>
+- <a href="https://grokbotsmarket.com/showcase/plan-precheck-bot/2103338911821111325?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/plan-precheck-bot/mw613xwduu3qou.jpg" width="48" alt=""> Plan Precheck Bot</a>
 - <a href="https://grokbotsmarket.com/showcase/daily-lingo/2107693369665487052?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/daily-lingo/mw7cl38kztxm1p.png" width="48" alt=""> Daily Lingo</a>
 - <a href="https://grokbotsmarket.com/showcase/device-health-check-bot/2119118790583796069?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/device-health-check-bot/mw6y6ll3sf2f3k.jpg" width="48" alt=""> Device Health Check Bot</a>
 - <a href="https://grokbotsmarket.com/showcase/video-creator/2112941787526447195?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/video-creator/mw7cqlyfcuq78m.jpg" width="48" alt=""> Video Creator</a>
@@ -454,10 +490,6 @@ by <a href="https://x.com/XAngus/status/2103077019164795281">@XAngus</a><br>
 - <a href="https://grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063/0-poster.jpg" width="48" alt=""> Medical Bill Power Assistant</a>
 - <a href="https://grokbotsmarket.com/showcase/appy-meal/2116393990367195217?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/appy-meal/2116393990367195217/0.jpg" width="48" alt=""> Appy Meal</a>
 - <a href="https://grokbotsmarket.com/showcase/listbot-ebay-listing-generator/2116500436375281669?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/listbot-ebay-listing-generator/2116500436375281669/0.jpg" width="48" alt=""> ListBot — eBay Listing Generator</a>
-- <a href="https://grokbotsmarket.com/showcase/foreman-2/2116579704513982832?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/foreman-2/2116579704513982832/0.jpg" width="48" alt=""> Foreman</a>
-- <a href="https://grokbotsmarket.com/showcase/subscription-tracker/2116538184674758927?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/subscription-tracker/2116538184674758927/0.jpg" width="48" alt=""> Subscription Tracker</a>
-- <a href="https://grokbotsmarket.com/showcase/credit-repair-coach/2116561333378560212?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/credit-repair-coach/2116561333378560212/0-poster.jpg" width="48" alt=""> Credit Repair Coach</a>
-- <a href="https://grokbotsmarket.com/showcase/child-safety-coach/2116630078809362616?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/child-safety-coach/2116630078809362616/0-cover.jpg" width="48" alt=""> 🔐 Child Safety Coach</a>
 
 ## How to use
 
