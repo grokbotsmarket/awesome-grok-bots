@@ -4,15 +4,15 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**44 bots · 44 showcases · updated 2026-11-13**
+**46 bots · 46 showcases · updated 2026-11-14**
 
 ## Contents
 
 - [Coding](#coding) (4)
-- [Content Writing](#content-writing) (7)
+- [Content Writing](#content-writing) (8)
 - [Daily Briefing](#daily-briefing) (3)
 - [News Monitoring](#news-monitoring) (4)
-- [Personal Finance](#personal-finance) (6)
+- [Personal Finance](#personal-finance) (7)
 - [Research](#research) (16)
 - [Sales Outreach](#sales-outreach) (1)
 - [Scheduling](#scheduling) (4)
@@ -108,6 +108,13 @@ by <a href="https://x.com/farzyness/status/2112941787526447195">@farzyness</a><b
 </td>
 </tr>
 <tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/coi-autopilot/2104196079797637247?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/coi-autopilot/mwe820xir9ja6g.jpg" width="240" alt="COI Autopilot"></a><br>
+<a href="https://grokbotsmarket.com/bots/coi-autopilot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>COI Autopilot</b></a><br>
+Turn insurance documents into filled ACORD forms and field-by-field reviews.<br>
+by <a href="https://x.com/CantBeatDees/status/2104196079797637247">@CantBeatDees</a><br>
+<a href="https://x.ai/bot/_g9LeHhlCZnm5pCH9JTAH">Add to Grok Bot</a>
+</td>
 <td valign="top" width="33%">
 <a href="https://grokbotsmarket.com/showcase/rosie-cards/2120947384893194750?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/rosie-cards/mwe8nx4gjg0vuc.jpg" width="240" alt="Rosie · Cards"></a><br>
 <a href="https://grokbotsmarket.com/bots/rosie-cards?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Rosie · Cards</b></a><br>
@@ -230,6 +237,15 @@ by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
 Track AI plan usage, reset times, and bot task costs in one dashboard.<br>
 by <a href="https://x.com/danielhung/status/2114850616824516608">@danielhung</a><br>
 <a href="https://x.ai/bot/qmENesX2cLr2UHqkEEqMS">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/cryptotrader-5-89/2119777246281871405?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/cryptotrader-5-89/mweajea3wxr6at.jpg" width="240" alt="CryptoTrader 5.89"></a><br>
+<a href="https://grokbotsmarket.com/bots/cryptotrader-5-89?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>CryptoTrader 5.89</b></a><br>
+Set up Xaman and plan authorized XRPL trading with 10-minute checks.<br>
+by <a href="https://x.com/allthemoney/status/2119777246281871405">@allthemoney</a><br>
+<a href="https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -460,6 +476,8 @@ by <a href="https://x.com/SuddenlyJon/status/2114888723397562434">@SuddenlyJon</
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/cryptotrader-5-89/2119777246281871405?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/cryptotrader-5-89/mweajea3wxr6at.jpg" width="48" alt=""> CryptoTrader 5.89</a>
+- <a href="https://grokbotsmarket.com/showcase/coi-autopilot/2104196079797637247?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/coi-autopilot/mwe820xir9ja6g.jpg" width="48" alt=""> COI Autopilot</a>
 - <a href="https://grokbotsmarket.com/showcase/mural/2114888723397562434?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/mural/mwctctls662mks.jpg" width="48" alt=""> Mural</a>
 - <a href="https://grokbotsmarket.com/showcase/ai-usage-hub/2114850616824516608?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/ai-usage-hub/mwctcems3z1c97.jpg" width="48" alt=""> AI Usage Hub</a>
 - <a href="https://grokbotsmarket.com/showcase/rosie-cards/2120947384893194750?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/rosie-cards/mwe8nx4gjg0vuc.jpg" width="48" alt=""> Rosie · Cards</a>
@@ -488,8 +506,6 @@ by <a href="https://x.com/SuddenlyJon/status/2114888723397562434">@SuddenlyJon</
 - <a href="https://grokbotsmarket.com/showcase/leaselord/2116594803542458578?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/leaselord/2116594803542458578/0.jpg" width="48" alt=""> LeaseLord</a>
 - <a href="https://grokbotsmarket.com/showcase/reply-guy-filter/2116570297151467533?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/reply-guy-filter/2116570297151467533/0-cover.jpg" width="48" alt=""> Reply Guy Filter</a>
 - <a href="https://grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063/0-poster.jpg" width="48" alt=""> Medical Bill Power Assistant</a>
-- <a href="https://grokbotsmarket.com/showcase/appy-meal/2116393990367195217?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/appy-meal/2116393990367195217/0.jpg" width="48" alt=""> Appy Meal</a>
-- <a href="https://grokbotsmarket.com/showcase/listbot-ebay-listing-generator/2116500436375281669?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/listbot-ebay-listing-generator/2116500436375281669/0.jpg" width="48" alt=""> ListBot — eBay Listing Generator</a>
 
 ## How to use
 
