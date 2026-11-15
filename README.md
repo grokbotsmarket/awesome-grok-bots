@@ -4,7 +4,7 @@ Real Grok Bot runs shared on X, each with its share link.
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**46 bots · 46 showcases · updated 2026-11-14**
+**49 bots · 50 showcases · updated 2026-11-15**
 
 ## Contents
 
@@ -12,11 +12,11 @@ Real Grok Bot runs shared on X, each with its share link.
 - [Content Writing](#content-writing) (8)
 - [Daily Briefing](#daily-briefing) (3)
 - [News Monitoring](#news-monitoring) (4)
-- [Personal Finance](#personal-finance) (7)
-- [Research](#research) (16)
+- [Personal Finance](#personal-finance) (8)
+- [Research](#research) (17)
 - [Sales Outreach](#sales-outreach) (1)
-- [Scheduling](#scheduling) (4)
-- [Social Media](#social-media) (5)
+- [Scheduling](#scheduling) (5)
+- [Social Media](#social-media) (6)
 - [Latest](#latest)
 - [How to use](#how-to-use)
 - [Credits](#credits)
@@ -247,6 +247,13 @@ Set up Xaman and plan authorized XRPL trading with 10-minute checks.<br>
 by <a href="https://x.com/allthemoney/status/2119777246281871405">@allthemoney</a><br>
 <a href="https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/tradey/2093484126720372842?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/tradey/mwe7zsn0us9k44.jpg" width="240" alt="Tradey"></a><br>
+<a href="https://grokbotsmarket.com/bots/tradey?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Tradey</b></a><br>
+Runs a short-term equity desk with autonomous trades and SPY benchmarking.<br>
+by <a href="https://x.com/farzyness/status/2093484126720372842">@farzyness</a><br>
+<a href="https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -376,6 +383,13 @@ Flag plan issues and prepare marked-up drawings for licensed review.<br>
 by <a href="https://x.com/TinaDS61/status/2103338911821111325">@TinaDS61</a><br>
 <a href="https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/tradey/2093484126720372842?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/tradey/mwe7zsn0us9k44.jpg" width="240" alt="Tradey"></a><br>
+<a href="https://grokbotsmarket.com/bots/tradey?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Tradey</b></a><br>
+Runs a short-term equity desk with autonomous trades and SPY benchmarking.<br>
+by <a href="https://x.com/farzyness/status/2093484126720372842">@farzyness</a><br>
+<a href="https://x.ai/bot/_CIeV4P17QVoxuaEyeiFZ">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -427,6 +441,13 @@ Organize gifts by person and track weekly price changes.<br>
 by <a href="https://x.com/dkmitc/status/2108677563644072263">@dkmitc</a><br>
 <a href="https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/usage-meter/2121278674724860084?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/usage-meter/mwfitnk01a1dlp.png" width="240" alt="Usage Meter"></a><br>
+<a href="https://grokbotsmarket.com/bots/usage-meter?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Usage Meter</b></a><br>
+Track weekly Grok Bot usage with an avatar gauge and pace alerts.<br>
+by <a href="https://x.com/cummingsrob/status/2121278674724860084">@cummingsrob</a><br>
+<a href="https://x.ai/bot/MTVj9wS2KbNz29ssJ9q_u">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -471,11 +492,22 @@ Create large, detailed images, wallpaper packs, and print-ready posters.<br>
 by <a href="https://x.com/SuddenlyJon/status/2114888723397562434">@SuddenlyJon</a><br>
 <a href="https://x.ai/bot/Obg7rtHsF-I81kR1P8BFC">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/showcase/jason/2093485095457894601?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jason/mwe7ybzg6o14eq.jpg" width="240" alt="jason"></a><br>
+<a href="https://grokbotsmarket.com/bots/jason?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>jason</b></a><br>
+A joke character who keeps bringing the conversation back to Uber.<br>
+by <a href="https://x.com/luishXYZ/status/2093485095457894601">@luishXYZ</a><br>
+<a href="https://x.ai/bot/9X-V8im-kPPFgybviXkd6">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
 ## Latest
 
+- <a href="https://grokbotsmarket.com/showcase/usage-meter/2121321968997732468?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/usage-meter/mwfitoozvy1aid.png" width="48" alt=""> Usage Meter</a>
+- <a href="https://grokbotsmarket.com/showcase/usage-meter/2121278674724860084?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/usage-meter/mwfitnk01a1dlp.png" width="48" alt=""> Usage Meter</a>
+- <a href="https://grokbotsmarket.com/showcase/jason/2093485095457894601?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/jason/mwe7ybzg6o14eq.jpg" width="48" alt=""> jason</a>
+- <a href="https://grokbotsmarket.com/showcase/tradey/2093484126720372842?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/tradey/mwe7zsn0us9k44.jpg" width="48" alt=""> Tradey</a>
 - <a href="https://grokbotsmarket.com/showcase/cryptotrader-5-89/2119777246281871405?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/cryptotrader-5-89/mweajea3wxr6at.jpg" width="48" alt=""> CryptoTrader 5.89</a>
 - <a href="https://grokbotsmarket.com/showcase/coi-autopilot/2104196079797637247?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/coi-autopilot/mwe820xir9ja6g.jpg" width="48" alt=""> COI Autopilot</a>
 - <a href="https://grokbotsmarket.com/showcase/mural/2114888723397562434?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/mural/mwctctls662mks.jpg" width="48" alt=""> Mural</a>
@@ -502,10 +534,6 @@ by <a href="https://x.com/SuddenlyJon/status/2114888723397562434">@SuddenlyJon</
 - <a href="https://grokbotsmarket.com/showcase/site-signal/2116556030268080528?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/site-signal/2116556030268080528/0-poster.jpg" width="48" alt=""> Site Signal</a>
 - <a href="https://grokbotsmarket.com/showcase/creator-post-helper/2116330562072047775?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/creator-post-helper/2116330562072047775/0.jpg" width="48" alt=""> Creator Post Helper</a>
 - <a href="https://grokbotsmarket.com/showcase/game-deals-radar/2116530642473390088?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/game-deals-radar/2116530642473390088/0.jpg" width="48" alt=""> Game Deals Radar</a>
-- <a href="https://grokbotsmarket.com/showcase/diagram-designer/2116597771973382254?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/diagram-designer/2116597771973382254/0.jpg" width="48" alt=""> Diagram Designer</a>
-- <a href="https://grokbotsmarket.com/showcase/leaselord/2116594803542458578?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/leaselord/2116594803542458578/0.jpg" width="48" alt=""> LeaseLord</a>
-- <a href="https://grokbotsmarket.com/showcase/reply-guy-filter/2116570297151467533?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/reply-guy-filter/2116570297151467533/0-cover.jpg" width="48" alt=""> Reply Guy Filter</a>
-- <a href="https://grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/showcase/medical-bill-power-assistant/2116684394014626063/0-poster.jpg" width="48" alt=""> Medical Bill Power Assistant</a>
 
 ## How to use
 
