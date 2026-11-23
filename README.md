@@ -4,19 +4,19 @@ Ready-made Grok Bots grouped by what they do, each with its official Add to Grok
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**230 bots · 76 with real runs · 57 showcases · updated 2026-11-22**
+**240 bots · 76 with real runs · 57 showcases · updated 2026-11-23**
 
 ## Contents
 
-- [Grok Bots for Coding](#coding) (18)
-- [Grok Bots for Content Writing](#content-writing) (30)
-- [Grok Bots for Daily Briefing](#daily-briefing) (20)
+- [Grok Bots for Coding](#coding) (20)
+- [Grok Bots for Content Writing](#content-writing) (32)
+- [Grok Bots for Daily Briefing](#daily-briefing) (23)
 - [Grok Bots for Inbox Triage](#inbox-triage) (6)
 - [Grok Bots for News Monitoring](#news-monitoring) (18)
 - [Grok Bots for Personal Finance](#personal-finance) (33)
-- [Grok Bots for Research](#research) (102)
-- [Grok Bots for Sales Outreach](#sales-outreach) (6)
-- [Grok Bots for Scheduling](#scheduling) (44)
+- [Grok Bots for Research](#research) (105)
+- [Grok Bots for Sales Outreach](#sales-outreach) (7)
+- [Grok Bots for Scheduling](#scheduling) (46)
 - [Grok Bots for Social Media](#social-media) (34)
 - [Latest](#latest)
 - [How to use](#how-to-use)
@@ -148,6 +148,20 @@ Run prompts through the Hermes Agent CLI and get concise replies with receipts.<
 <a href="https://grokbotsmarket.com/bots/agent?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>多 Agent 协作与选型策略</b></a><br>
 Plan agent boundaries, replication checks, and model spending.<br>
 <a href="https://x.ai/bot/ArZlxjSbX_1wbxjyu_b-a">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/bot-goddess?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/bot-goddess/bot-goddess-grok-bot-character-mwovfmrwqn94wp.png" width="240" alt="Bot Goddess"></a><br>
+<a href="https://grokbotsmarket.com/bots/bot-goddess?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Bot Goddess</b></a><br>
+Create and maintain Grok Bots with source you can inspect and reuse.<br>
+<a href="https://x.ai/bot/u7cP8KZ6iPlrRvSojTrYU">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/commit-coach?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/commit-coach/commit-coach-grok-bot-character-mwot3wzffv8srf.png" width="240" alt="Commit Coach"></a><br>
+<a href="https://grokbotsmarket.com/bots/commit-coach?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Commit Coach</b></a><br>
+Turn your own commits into a weekly programming lesson and exercise.<br>
+<a href="https://x.ai/bot/szrvLgA9uHYiH3dKiW8ZV">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -361,10 +375,24 @@ Find matching jobs, tailor your resume, and prepare applications for approval.<b
 <a href="https://x.ai/bot/cTc02RRIrpShsv4WFM1kf">Add to Grok Bot</a>
 </td>
 <td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/andre?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/andre/andre-grok-bot-character-mwon2d90vusrj4.png" width="240" alt="Andre"></a><br>
+<a href="https://grokbotsmarket.com/bots/andre?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Andre</b></a><br>
+Audits a small business website and drafts one pitch you can send.<br>
+<a href="https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 <a href="https://grokbotsmarket.com/bots/applicoti?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/applicoti/applicoti-grok-bot-character-mwonggkfeme4cm.png" width="240" alt="Applicoti"></a><br>
 <a href="https://grokbotsmarket.com/bots/applicoti?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Applicoti</b></a><br>
 Find matching jobs and tailor your resume, cover letter, and answers.<br>
 <a href="https://x.ai/bot/AfpFyeysGxUyH9bAgjvGy">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/austen?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/austen/austen-grok-bot-character-mwotwurbyvyt6j.png" width="240" alt="Austen"></a><br>
+<a href="https://grokbotsmarket.com/bots/austen?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Austen</b></a><br>
+Get social advice and short scenes in Jane Austen’s dry, amused voice.<br>
+<a href="https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -509,6 +537,26 @@ Catch up on your busiest Slack channels with a short morning digest.<br>
 <a href="https://grokbotsmarket.com/bots/premarket-desk?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Premarket Desk · 盘前早报</b></a><br>
 Get a daily US watchlist brief, X discussion, and evening earnings readouts.<br>
 <a href="https://x.ai/bot/GuhaTzThKQG2MKJyHoREx">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/austen?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/austen/austen-grok-bot-character-mwotwurbyvyt6j.png" width="240" alt="Austen"></a><br>
+<a href="https://grokbotsmarket.com/bots/austen?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Austen</b></a><br>
+Get social advice and short scenes in Jane Austen’s dry, amused voice.<br>
+<a href="https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/tenderyearsbot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/tenderyearsbot/tenderyearsbot-grok-bot-character-mwol0n7cbv2e0v.png" width="240" alt="TenderYearsbot"></a><br>
+<a href="https://grokbotsmarket.com/bots/tenderyearsbot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>TenderYearsbot</b></a><br>
+Family briefs and sitter sheets for households with kids under five.<br>
+<a href="https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/tripwire?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/tripwire/tripwire-grok-bot-character-mwfu58gwyg76df.png" width="240" alt="Tripwire"></a><br>
+<a href="https://grokbotsmarket.com/bots/tripwire?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Tripwire</b></a><br>
+Flags likely problems in your day or week and pairs them with a quick fix.<br>
+<a href="https://x.ai/bot/5t71N1zy3I_uVsDjg5Vb0">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1637,6 +1685,26 @@ Find matching jobs and tailor your resume, cover letter, and answers.<br>
 <a href="https://x.ai/bot/AfpFyeysGxUyH9bAgjvGy">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/board?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/board/board-grok-bot-character-mwouydmed0qflx.png" width="240" alt="Board"></a><br>
+<a href="https://grokbotsmarket.com/bots/board?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Board</b></a><br>
+Routes business strategy work to one of 11 specialists.<br>
+<a href="https://x.ai/bot/Cnqct6P0wqESfF8IgITMq">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/buy-or-skip?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/buy-or-skip/buy-or-skip-grok-bot-character-mwp32aq70zenci.png" width="240" alt="Buy or Skip"></a><br>
+<a href="https://grokbotsmarket.com/bots/buy-or-skip?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Buy or Skip</b></a><br>
+Paste a product link or name to get a BUY, WAIT, or SKIP verdict.<br>
+<a href="https://x.ai/bot/dKULJ5f9nPf6_fVn5aGK4">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/buzzkill?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/buzzkill/buzzkill-grok-bot-character-mwp3qo603yfknw.png" width="240" alt="Buzzkill"></a><br>
+<a href="https://grokbotsmarket.com/bots/buzzkill?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Buzzkill</b></a><br>
+Turns security findings into a report and a human approval request.<br>
+<a href="https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Grok Bots for Sales Outreach</h2>
@@ -1681,6 +1749,14 @@ Coordinates revenue lanes and prepares action packets for your approval.<br>
 <a href="https://grokbotsmarket.com/bots/rep-film?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Rep Film</b></a><br>
 Turn recorded sales calls into timestamped notes for your next call.<br>
 <a href="https://x.ai/bot/QsxNl31chLrZVXMBcfdpg">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/andre?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/andre/andre-grok-bot-character-mwon2d90vusrj4.png" width="240" alt="Andre"></a><br>
+<a href="https://grokbotsmarket.com/bots/andre?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Andre</b></a><br>
+Audits a small business website and drafts one pitch you can send.<br>
+<a href="https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1996,6 +2072,20 @@ Track the next 14 days of market catalysts for your watchlist.<br>
 <a href="https://grokbotsmarket.com/bots/nearby-reminders?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Nearby Reminders</b></a><br>
 Get a nudge about a to-do item when your phone shows you're nearby.<br>
 <a href="https://x.ai/bot/osi4qnCsyi_E_58tQShCJ">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/tenderyearsbot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/tenderyearsbot/tenderyearsbot-grok-bot-character-mwol0n7cbv2e0v.png" width="240" alt="TenderYearsbot"></a><br>
+<a href="https://grokbotsmarket.com/bots/tenderyearsbot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>TenderYearsbot</b></a><br>
+Family briefs and sitter sheets for households with kids under five.<br>
+<a href="https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/chef-bob?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/chef-bob/chef-bob-grok-bot-character-mwpg3az0f4pgff.png" width="240" alt="Chef Bob"></a><br>
+<a href="https://grokbotsmarket.com/bots/chef-bob?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Chef Bob</b></a><br>
+Plan a week of dinners, get a shopping list, and adjust meals as needed.<br>
+<a href="https://x.ai/bot/5a3AV-NVm_VOVcd2TUJs2">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
