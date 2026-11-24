@@ -4,20 +4,20 @@ Ready-made Grok Bots grouped by what they do, each with its official Add to Grok
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**240 bots · 76 with real runs · 57 showcases · updated 2026-11-23**
+**250 bots · 76 with real runs · 57 showcases · updated 2026-11-24**
 
 ## Contents
 
-- [Grok Bots for Coding](#coding) (20)
-- [Grok Bots for Content Writing](#content-writing) (32)
-- [Grok Bots for Daily Briefing](#daily-briefing) (23)
-- [Grok Bots for Inbox Triage](#inbox-triage) (6)
+- [Grok Bots for Coding](#coding) (21)
+- [Grok Bots for Content Writing](#content-writing) (36)
+- [Grok Bots for Daily Briefing](#daily-briefing) (24)
+- [Grok Bots for Inbox Triage](#inbox-triage) (7)
 - [Grok Bots for News Monitoring](#news-monitoring) (18)
-- [Grok Bots for Personal Finance](#personal-finance) (33)
-- [Grok Bots for Research](#research) (105)
+- [Grok Bots for Personal Finance](#personal-finance) (37)
+- [Grok Bots for Research](#research) (108)
 - [Grok Bots for Sales Outreach](#sales-outreach) (7)
-- [Grok Bots for Scheduling](#scheduling) (46)
-- [Grok Bots for Social Media](#social-media) (34)
+- [Grok Bots for Scheduling](#scheduling) (47)
+- [Grok Bots for Social Media](#social-media) (36)
 - [Latest](#latest)
 - [How to use](#how-to-use)
 - [Credits](#credits)
@@ -162,6 +162,12 @@ Create and maintain Grok Bots with source you can inspect and reuse.<br>
 <a href="https://grokbotsmarket.com/bots/commit-coach?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Commit Coach</b></a><br>
 Turn your own commits into a weekly programming lesson and exercise.<br>
 <a href="https://x.ai/bot/szrvLgA9uHYiH3dKiW8ZV">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/desk-doorbell?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/desk-doorbell/desk-doorbell-grok-bot-character-mwqk7v8bil863p.png" width="240" alt="Desk Doorbell"></a><br>
+<a href="https://grokbotsmarket.com/bots/desk-doorbell?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Desk Doorbell</b></a><br>
+Routes desk requests to the right bot and keeps your local clone current.<br>
+<a href="https://x.ai/bot/Q_-PLlmHrV1l2h3Tk1ejJ">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -394,6 +400,32 @@ Find matching jobs and tailor your resume, cover letter, and answers.<br>
 Get social advice and short scenes in Jane Austen’s dry, amused voice.<br>
 <a href="https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/counsel?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/counsel/counsel-grok-bot-character-mwq6hl36q3enz5.png" width="240" alt="Counsel"></a><br>
+<a href="https://grokbotsmarket.com/bots/counsel?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Counsel</b></a><br>
+Sets up five legal specialists and routes draft work to a named owner.<br>
+<a href="https://x.ai/bot/53CUMjcbw5HjzDvvpslRH">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/digital-afterlife-planner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/digital-afterlife-planner/digital-afterlife-planner-grok-bot-character-mwfu9gfzdotdol.png" width="240" alt="Digital Afterlife Planner"></a><br>
+<a href="https://grokbotsmarket.com/bots/digital-afterlife-planner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Digital Afterlife Planner</b></a><br>
+Plan your account wishes, legacy contacts, and estate instructions.<br>
+<a href="https://x.ai/bot/vmSY7CrZxsX4NHOsoH5Bt">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/portable-ai-profile-keeper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/portable-ai-profile-keeper/portable-ai-profile-keeper-grok-bot-character-mwfu79y9e5ovwb.png" width="240" alt="Portable AI Profile Keeper"></a><br>
+<a href="https://grokbotsmarket.com/bots/portable-ai-profile-keeper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Portable AI Profile Keeper</b></a><br>
+Carry your preferences and project context between AI assistants.<br>
+<a href="https://x.ai/bot/-pB9EaBgqJ7Nh0KZgSSj_">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/dostoyevsky?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/dostoyevsky/dostoyevsky-grok-bot-character-mwqvv3s8lvexha.png" width="240" alt="Dostoyevsky"></a><br>
+<a href="https://grokbotsmarket.com/bots/dostoyevsky?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Dostoyevsky</b></a><br>
+Talk through moral dilemmas in the voice of Dostoyevsky’s novels.<br>
+<a href="https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -558,6 +590,12 @@ Family briefs and sitter sheets for households with kids under five.<br>
 Flags likely problems in your day or week and pairs them with a quick fix.<br>
 <a href="https://x.ai/bot/5t71N1zy3I_uVsDjg5Vb0">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/first-response-never-miss-a-lead-again/first-response-never-miss-a-lead-again-grok-bot-character-mwpsm7mo2lilpg.png" width="240" alt="First Response — Never Miss a Lead Again"></a><br>
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>First Response — Never Miss a Lead Again</b></a><br>
+Replies to new inquiries, qualifies leads, and books next steps.<br>
+<a href="https://x.ai/bot/SwBt8A5m9FMowUTGCIg79">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -603,6 +641,14 @@ Let your bots search across all your Gmail inboxes in one go.<br>
 <a href="https://grokbotsmarket.com/bots/inbox-manager?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>inbox manager</b></a><br>
 Finds the few emails and Slack messages that need your attention now.<br>
 <a href="https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/first-response-never-miss-a-lead-again/first-response-never-miss-a-lead-again-grok-bot-character-mwpsm7mo2lilpg.png" width="240" alt="First Response — Never Miss a Lead Again"></a><br>
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>First Response — Never Miss a Lead Again</b></a><br>
+Replies to new inquiries, qualifies leads, and books next steps.<br>
+<a href="https://x.ai/bot/SwBt8A5m9FMowUTGCIg79">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -969,6 +1015,34 @@ Get a daily US watchlist brief, X discussion, and evening earnings readouts.<br>
 <a href="https://grokbotsmarket.com/bots/settlement-breach-payout-finder?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Settlement &amp; Breach Payout Finder</b></a><br>
 Find potential settlement payouts and prepare answers for official claim forms.<br>
 <a href="https://x.ai/bot/gAecvrBvQ5hh3C7QbiWpo">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/account-lockout-rescue/account-lockout-rescue-grok-bot-character-mwfu8cyn1bqr84.png" width="240" alt="Account Lockout Rescue"></a><br>
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Account Lockout Rescue</b></a><br>
+Recover locked accounts and prepare backup ways to get back in.<br>
+<a href="https://x.ai/bot/5TbmH4mA2za4qHjdZqRR4">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/digital-afterlife-planner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/digital-afterlife-planner/digital-afterlife-planner-grok-bot-character-mwfu9gfzdotdol.png" width="240" alt="Digital Afterlife Planner"></a><br>
+<a href="https://grokbotsmarket.com/bots/digital-afterlife-planner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Digital Afterlife Planner</b></a><br>
+Plan your account wishes, legacy contacts, and estate instructions.<br>
+<a href="https://x.ai/bot/vmSY7CrZxsX4NHOsoH5Bt">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/life-black-box?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/life-black-box/life-black-box-grok-bot-character-mwfu6co2tzp7h0.png" width="240" alt="Life Black Box"></a><br>
+<a href="https://grokbotsmarket.com/bots/life-black-box?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Life Black Box</b></a><br>
+Gathers your records for an emergency packet after a disaster.<br>
+<a href="https://x.ai/bot/cBHzjj28hoB1NhprNT_GF">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/robotaxi-vs-car-ownership-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/robotaxi-vs-car-ownership-advisor/robotaxi-vs-car-ownership-advisor-grok-bot-character-mwfuap9claqa6f.png" width="240" alt="Robotaxi vs. Car Ownership Advisor"></a><br>
+<a href="https://grokbotsmarket.com/bots/robotaxi-vs-car-ownership-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Robotaxi vs. Car Ownership Advisor</b></a><br>
+Compare car ownership with local rides and get a keep, downsize, or switch call.<br>
+<a href="https://x.ai/bot/gzyz_yd5BdKc8UukU-EqY">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1705,6 +1779,26 @@ Turns security findings into a report and a human approval request.<br>
 <a href="https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/account-lockout-rescue/account-lockout-rescue-grok-bot-character-mwfu8cyn1bqr84.png" width="240" alt="Account Lockout Rescue"></a><br>
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Account Lockout Rescue</b></a><br>
+Recover locked accounts and prepare backup ways to get back in.<br>
+<a href="https://x.ai/bot/5TbmH4mA2za4qHjdZqRR4">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/real-or-ai-checker?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/real-or-ai-checker/real-or-ai-checker-grok-bot-character-mwfubt3hayjqnl.png" width="240" alt="Real or AI Checker"></a><br>
+<a href="https://grokbotsmarket.com/bots/real-or-ai-checker?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Real or AI Checker</b></a><br>
+Check media and links for signs of AI generation or alteration.<br>
+<a href="https://x.ai/bot/qdIo7QnsU0AQYQLLhQCSr">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/robotaxi-vs-car-ownership-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/robotaxi-vs-car-ownership-advisor/robotaxi-vs-car-ownership-advisor-grok-bot-character-mwfuap9claqa6f.png" width="240" alt="Robotaxi vs. Car Ownership Advisor"></a><br>
+<a href="https://grokbotsmarket.com/bots/robotaxi-vs-car-ownership-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Robotaxi vs. Car Ownership Advisor</b></a><br>
+Compare car ownership with local rides and get a keep, downsize, or switch call.<br>
+<a href="https://x.ai/bot/gzyz_yd5BdKc8UukU-EqY">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Grok Bots for Sales Outreach</h2>
@@ -2087,6 +2181,12 @@ Family briefs and sitter sheets for households with kids under five.<br>
 Plan a week of dinners, get a shopping list, and adjust meals as needed.<br>
 <a href="https://x.ai/bot/5a3AV-NVm_VOVcd2TUJs2">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/first-response-never-miss-a-lead-again/first-response-never-miss-a-lead-again-grok-bot-character-mwpsm7mo2lilpg.png" width="240" alt="First Response — Never Miss a Lead Again"></a><br>
+<a href="https://grokbotsmarket.com/bots/first-response-never-miss-a-lead-again?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>First Response — Never Miss a Lead Again</b></a><br>
+Replies to new inquiries, qualifies leads, and books next steps.<br>
+<a href="https://x.ai/bot/SwBt8A5m9FMowUTGCIg79">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -2328,6 +2428,18 @@ Builds comparison videos with rotating opponents and a running score.<br>
 <a href="https://grokbotsmarket.com/bots/cut-film-editor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Cut · Film Editor</b></a><br>
 Turn raw clips into a cinematic edit with voiceover and music.<br>
 <a href="https://x.ai/bot/pXaNwwJtU7swn1eztXTsB">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/account-lockout-rescue/account-lockout-rescue-grok-bot-character-mwfu8cyn1bqr84.png" width="240" alt="Account Lockout Rescue"></a><br>
+<a href="https://grokbotsmarket.com/bots/account-lockout-rescue?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Account Lockout Rescue</b></a><br>
+Recover locked accounts and prepare backup ways to get back in.<br>
+<a href="https://x.ai/bot/5TbmH4mA2za4qHjdZqRR4">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/real-or-ai-checker?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/real-or-ai-checker/real-or-ai-checker-grok-bot-character-mwfubt3hayjqnl.png" width="240" alt="Real or AI Checker"></a><br>
+<a href="https://grokbotsmarket.com/bots/real-or-ai-checker?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Real or AI Checker</b></a><br>
+Check media and links for signs of AI generation or alteration.<br>
+<a href="https://x.ai/bot/qdIo7QnsU0AQYQLLhQCSr">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
