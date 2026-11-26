@@ -4,17 +4,17 @@ Ready-made Grok Bots grouped by what they do, each with its official Add to Grok
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**259 bots · 75 with real runs · 56 showcases · updated 2026-11-25**
+**269 bots · 75 with real runs · 56 showcases · updated 2026-11-26**
 
 ## Contents
 
 - [Grok Bots for Coding](#coding) (22)
-- [Grok Bots for Content Writing](#content-writing) (39)
-- [Grok Bots for Daily Briefing](#daily-briefing) (26)
+- [Grok Bots for Content Writing](#content-writing) (43)
+- [Grok Bots for Daily Briefing](#daily-briefing) (28)
 - [Grok Bots for Inbox Triage](#inbox-triage) (7)
-- [Grok Bots for News Monitoring](#news-monitoring) (19)
-- [Grok Bots for Personal Finance](#personal-finance) (37)
-- [Grok Bots for Research](#research) (113)
+- [Grok Bots for News Monitoring](#news-monitoring) (20)
+- [Grok Bots for Personal Finance](#personal-finance) (38)
+- [Grok Bots for Research](#research) (117)
 - [Grok Bots for Sales Outreach](#sales-outreach) (7)
 - [Grok Bots for Scheduling](#scheduling) (49)
 - [Grok Bots for Social Media](#social-media) (36)
@@ -455,6 +455,34 @@ Find emerging needs in your niche and turn real gaps into content.<br>
 <a href="https://x.ai/bot/mgHgsFCkPcYyX428IB1VD">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/freelance-gig-launcher?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/freelance-gig-launcher/freelance-gig-launcher-grok-bot-character-mwfuknjrv5pvn3.png" width="240" alt="Freelance Gig Launcher"></a><br>
+<a href="https://grokbotsmarket.com/bots/freelance-gig-launcher?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Freelance Gig Launcher</b></a><br>
+Turn your skill into a Fiverr gig or Upwork project draft.<br>
+<a href="https://x.ai/bot/deFAUqEq7l00Mf1szKK3u">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/profit-piper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/profit-piper/profit-piper-grok-bot-character-mwfumtizivx1nx.png" width="240" alt="Profit Piper"></a><br>
+<a href="https://grokbotsmarket.com/bots/profit-piper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Profit Piper</b></a><br>
+Research product profitability, draft store pages, and plan small tests.<br>
+<a href="https://x.ai/bot/LhY5SIoxmGNtruK9tT6IM">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/training-tina?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/training-tina/training-tina-grok-bot-character-mwfunx2yw4xxe6.png" width="240" alt="Training Tina"></a><br>
+<a href="https://grokbotsmarket.com/bots/training-tina?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Training Tina</b></a><br>
+Creates beginner tech lessons, short video scripts, handouts and quizzes.<br>
+<a href="https://x.ai/bot/i-inX7Af2ipURfDp7jyJo">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/voice-clone-defense?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/voice-clone-defense/voice-clone-defense-grok-bot-character-mwfuef2r0knpgm.png" width="240" alt="Voice Clone Defense"></a><br>
+<a href="https://grokbotsmarket.com/bots/voice-clone-defense?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Voice Clone Defense</b></a><br>
+Prepare your family for voice-clone scam calls with scripts, cards, and drills.<br>
+<a href="https://x.ai/bot/ozTUKbyF8TzN3Hj1W1rDB">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="daily-briefing">Grok Bots for Daily Briefing</h2>
@@ -637,6 +665,20 @@ Drafts your BD pipeline, offers, and paid ad tests for founder review.<br>
 <a href="https://grokbotsmarket.com/bots/fomo-pilled?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>fomo pilled</b></a><br>
 Find local events worth your time in a short morning digest.<br>
 <a href="https://x.ai/bot/YOqFuamIFV3WdNNHYVt9L">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/quiet-health-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/quiet-health-companion/quiet-health-companion-grok-bot-character-mwfufigir02k81.png" width="240" alt="Quiet Health Companion"></a><br>
+<a href="https://grokbotsmarket.com/bots/quiet-health-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Quiet Health Companion</b></a><br>
+Log health details for patterns, weekly notes, and doctor summaries.<br>
+<a href="https://x.ai/bot/efeLXSAkz8HytLWZQqXNQ">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/release-scout?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/release-scout/release-scout-grok-bot-character-mwfup0g5yhtdj2.png" width="240" alt="Release Scout"></a><br>
+<a href="https://grokbotsmarket.com/bots/release-scout?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Release Scout</b></a><br>
+Get morning changelog updates and upgrade ideas for the bots you run.<br>
+<a href="https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -830,6 +872,12 @@ Get plain-English alerts about liquidity and volume for DEX tokens and pools.<br
 <a href="https://grokbotsmarket.com/bots/gazetteer-scout?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Gazetteer Scout</b></a><br>
 Find emerging needs in your niche and turn real gaps into content.<br>
 <a href="https://x.ai/bot/mgHgsFCkPcYyX428IB1VD">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/release-scout?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/release-scout/release-scout-grok-bot-character-mwfup0g5yhtdj2.png" width="240" alt="Release Scout"></a><br>
+<a href="https://grokbotsmarket.com/bots/release-scout?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Release Scout</b></a><br>
+Get morning changelog updates and upgrade ideas for the bots you run.<br>
+<a href="https://x.ai/bot/OjcLr9bFJIpO6G5BmitPX">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1093,6 +1141,12 @@ Gathers your records for an emergency packet after a disaster.<br>
 <a href="https://grokbotsmarket.com/bots/robotaxi-vs-car-ownership-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Robotaxi vs. Car Ownership Advisor</b></a><br>
 Compare car ownership with local rides and get a keep, downsize, or switch call.<br>
 <a href="https://x.ai/bot/gzyz_yd5BdKc8UukU-EqY">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/negotiation-sparring-partner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/negotiation-sparring-partner/negotiation-sparring-partner-grok-bot-character-mwfuholwrgimgu.png" width="240" alt="Negotiation Sparring Partner"></a><br>
+<a href="https://grokbotsmarket.com/bots/negotiation-sparring-partner?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Negotiation Sparring Partner</b></a><br>
+Practice negotiations against pushback, then get scores and a one-page plan.<br>
+<a href="https://x.ai/bot/mPLGHtBSTm37MD9x53D1f">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1877,10 +1931,36 @@ Find emerging needs in your niche and turn real gaps into content.<br>
 <a href="https://x.ai/bot/mgHgsFCkPcYyX428IB1VD">Add to Grok Bot</a>
 </td>
 <td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/cloud-iam-quarantine-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/cloud-iam-quarantine-advisor/cloud-iam-quarantine-advisor-grok-bot-character-mwfuiohqg29a61.png" width="240" alt="Cloud IAM Quarantine Advisor"></a><br>
+<a href="https://grokbotsmarket.com/bots/cloud-iam-quarantine-advisor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Cloud IAM Quarantine Advisor</b></a><br>
+Find risky Google Cloud service accounts and draft least-privilege fixes.<br>
+<a href="https://x.ai/bot/yGa_famcoi3JAo2cq5uv3">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/first-aid-freddie?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/first-aid-freddie/first-aid-freddie-grok-bot-character-mwfulnkh73w1dq.png" width="240" alt="First Aid Freddie"></a><br>
+<a href="https://grokbotsmarket.com/bots/first-aid-freddie?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>First Aid Freddie</b></a><br>
+Get short first aid steps and help deciding where to seek care.<br>
+<a href="https://x.ai/bot/1Ple2zggzxFf5I9gLELQn">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 <a href="https://grokbotsmarket.com/bots/gpu-price-watch?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/gpu-price-watch/gpu-price-watch-grok-bot-character-mws66gswq781x1.png" width="240" alt="GPU Price Watch"></a><br>
 <a href="https://grokbotsmarket.com/bots/gpu-price-watch?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>GPU Price Watch</b></a><br>
 Get alerts when public GPU rental rates hit your target or move sharply.<br>
 <a href="https://x.ai/bot/WTCh7nBzB55Q73ArvsBKm">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/profit-piper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/profit-piper/profit-piper-grok-bot-character-mwfumtizivx1nx.png" width="240" alt="Profit Piper"></a><br>
+<a href="https://grokbotsmarket.com/bots/profit-piper?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Profit Piper</b></a><br>
+Research product profitability, draft store pages, and plan small tests.<br>
+<a href="https://x.ai/bot/LhY5SIoxmGNtruK9tT6IM">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/420-terp-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/420-terp-bot/420-terp-grok-bot-character-mwfuq5l2nqjnii.png" width="240" alt="420 Terp Bot"></a><br>
+<a href="https://grokbotsmarket.com/bots/420-terp-bot?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>420 Terp Bot</b></a><br>
+Explore cannabis terpenes with lab charts, label reads and strain picks.<br>
+<a href="https://x.ai/bot/jQxnhTeTE4VDecArtlr90">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
