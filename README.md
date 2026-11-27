@@ -4,20 +4,20 @@ Ready-made Grok Bots grouped by what they do, each with its official Add to Grok
 
 [![Grok Bot showcase wall](assets/mosaic.webp)](https://grokbotsmarket.com/?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots)
 
-**269 bots · 75 with real runs · 56 showcases · updated 2026-11-26**
+**279 bots · 75 with real runs · 56 showcases · updated 2026-11-27**
 
 ## Contents
 
 - [Grok Bots for Coding](#coding) (22)
-- [Grok Bots for Content Writing](#content-writing) (43)
+- [Grok Bots for Content Writing](#content-writing) (45)
 - [Grok Bots for Daily Briefing](#daily-briefing) (28)
 - [Grok Bots for Inbox Triage](#inbox-triage) (7)
 - [Grok Bots for News Monitoring](#news-monitoring) (20)
 - [Grok Bots for Personal Finance](#personal-finance) (38)
-- [Grok Bots for Research](#research) (117)
-- [Grok Bots for Sales Outreach](#sales-outreach) (7)
-- [Grok Bots for Scheduling](#scheduling) (49)
-- [Grok Bots for Social Media](#social-media) (36)
+- [Grok Bots for Research](#research) (122)
+- [Grok Bots for Sales Outreach](#sales-outreach) (8)
+- [Grok Bots for Scheduling](#scheduling) (51)
+- [Grok Bots for Social Media](#social-media) (38)
 - [Latest](#latest)
 - [How to use](#how-to-use)
 - [Credits](#credits)
@@ -481,6 +481,18 @@ Creates beginner tech lessons, short video scripts, handouts and quizzes.<br>
 <a href="https://grokbotsmarket.com/bots/voice-clone-defense?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Voice Clone Defense</b></a><br>
 Prepare your family for voice-clone scam calls with scripts, cards, and drills.<br>
 <a href="https://x.ai/bot/ozTUKbyF8TzN3Hj1W1rDB">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/avatar-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/avatar-designer/avatar-designer-grok-bot-character-mwfuz1awniqb5c.png" width="240" alt="Avatar Designer"></a><br>
+<a href="https://grokbotsmarket.com/bots/avatar-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Avatar Designer</b></a><br>
+Create matching animated avatars and themed series for your Grok Bots.<br>
+<a href="https://x.ai/bot/3Ry2C9vB5_xpBegIoRoeC">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/job-hunt-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/job-hunt-loop/job-hunt-loop-grok-bot-character-mwfuvv2m79xo3p.png" width="240" alt="Job Hunt Loop"></a><br>
+<a href="https://grokbotsmarket.com/bots/job-hunt-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Job Hunt Loop</b></a><br>
+Refresh job chats, tailor your resume, and review application evidence.<br>
+<a href="https://x.ai/bot/K8hMUvbWVbxvZMTZxxurG">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -1963,6 +1975,40 @@ Explore cannabis terpenes with lab charts, label reads and strain picks.<br>
 <a href="https://x.ai/bot/jQxnhTeTE4VDecArtlr90">Add to Grok Bot</a>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/job-hunt-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/job-hunt-loop/job-hunt-loop-grok-bot-character-mwfuvv2m79xo3p.png" width="240" alt="Job Hunt Loop"></a><br>
+<a href="https://grokbotsmarket.com/bots/job-hunt-loop?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Job Hunt Loop</b></a><br>
+Refresh job chats, tailor your resume, and review application evidence.<br>
+<a href="https://x.ai/bot/K8hMUvbWVbxvZMTZxxurG">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/lead-finder?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/lead-finder/lead-finder-grok-bot-character-mwfushticqpgis.png" width="240" alt="Lead Finder"></a><br>
+<a href="https://grokbotsmarket.com/bots/lead-finder?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Lead Finder</b></a><br>
+Find public requests for your offer and prepare first-message drafts.<br>
+<a href="https://x.ai/bot/ptKW9Qlr6VgYe28aQPZ-y">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/role-research-curriculum?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/role-research-curriculum/role-research-curriculum-grok-bot-character-mwfuwsf05ruumz.png" width="240" alt="Role Research Curriculum"></a><br>
+<a href="https://grokbotsmarket.com/bots/role-research-curriculum?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Role Research Curriculum</b></a><br>
+Turn a job title into a source-backed curriculum and advanced practice.<br>
+<a href="https://x.ai/bot/SqKET-L6ur0LCn4HV_T3c">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/usage-watch?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/usage-watch/usage-watch-grok-bot-character-mwfuxx06q6hsxc.png" width="240" alt="Usage Watch"></a><br>
+<a href="https://grokbotsmarket.com/bots/usage-watch?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Usage Watch</b></a><br>
+Track Grok Bot usage and get up to three suggested changes.<br>
+<a href="https://x.ai/bot/Gpg5uQlTwaZI_XHISwJj_">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/ai-agent-permission-auditor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/ai-agent-permission-auditor/ai-agent-permission-auditor-grok-bot-character-mwfv4c27v00m24.png" width="240" alt="AI Agent Permission Auditor"></a><br>
+<a href="https://grokbotsmarket.com/bots/ai-agent-permission-auditor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>AI Agent Permission Auditor</b></a><br>
+Review AI app permissions and get guidance for trimming unnecessary access.<br>
+<a href="https://x.ai/bot/9fO__IJ9sA1XI_wWdfFih">Add to Grok Bot</a>
+</td>
+</tr>
 </table>
 
 <h2 id="sales-outreach">Grok Bots for Sales Outreach</h2>
@@ -2015,6 +2061,12 @@ Turn recorded sales calls into timestamped notes for your next call.<br>
 <a href="https://grokbotsmarket.com/bots/andre?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Andre</b></a><br>
 Audits a small business website and drafts one pitch you can send.<br>
 <a href="https://x.ai/bot/kRpDD2Vx01ge3Pc2x8dfs">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/lead-finder?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/lead-finder/lead-finder-grok-bot-character-mwfushticqpgis.png" width="240" alt="Lead Finder"></a><br>
+<a href="https://grokbotsmarket.com/bots/lead-finder?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Lead Finder</b></a><br>
+Find public requests for your offer and prepare first-message drafts.<br>
+<a href="https://x.ai/bot/ptKW9Qlr6VgYe28aQPZ-y">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
@@ -2365,6 +2417,18 @@ Turn overthinking into one small step you can take today.<br>
 Get two or three moves to catch up receipts and lock in jobs.<br>
 <a href="https://x.ai/bot/cArvDM6FaDzcOxPn6BLfS">Add to Grok Bot</a>
 </td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/empire-commander?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/empire-commander/empire-commander-grok-bot-character-mwfurfbfpns4cu.png" width="240" alt="Empire Commander"></a><br>
+<a href="https://grokbotsmarket.com/bots/empire-commander?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Empire Commander</b></a><br>
+Coordinate several Grok Bots with one job list and approval before sending.<br>
+<a href="https://x.ai/bot/lFsKB3YRp0kwcNa9VkASl">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/godaddy-domain-manager?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/godaddy-domain-manager/godaddy-domain-manager-grok-bot-character-mwfuuujh84qwoy.png" width="240" alt="GoDaddy Domain Manager"></a><br>
+<a href="https://grokbotsmarket.com/bots/godaddy-domain-manager?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>GoDaddy Domain Manager</b></a><br>
+Manage GoDaddy domains, with your approval required for each change.<br>
+<a href="https://x.ai/bot/4VahnRcDJ0RahVUSs-MWt">Add to Grok Bot</a>
+</td>
 </tr>
 </table>
 
@@ -2617,6 +2681,20 @@ Check media and links for signs of AI generation or alteration.<br>
 <a href="https://grokbotsmarket.com/bots/elena?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>Elena</b></a><br>
 Drafts your BD pipeline, offers, and paid ad tests for founder review.<br>
 <a href="https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b">Add to Grok Bot</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/filmcraft-video-editor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/filmcraft-video-editor/filmcraft-video-editor-grok-bot-character-mwfutmz1blya5r.png" width="240" alt="FilmCraft Video Editor"></a><br>
+<a href="https://grokbotsmarket.com/bots/filmcraft-video-editor?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>FilmCraft Video Editor</b></a><br>
+Clean up AI-generated shorts with cuts, retiming, holds, and transitions.<br>
+<a href="https://x.ai/bot/MITeT9w1KVty-na7QHz0I">Add to Grok Bot</a>
+</td>
+<td valign="top" width="33%">
+<a href="https://grokbotsmarket.com/bots/the-bouncer?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><img src="https://cdn.grokbotsmarket.com/covers/the-bouncer/the-bouncer-grok-bot-character-mwfv24e6tann13.png" width="240" alt="The Bouncer"></a><br>
+<a href="https://grokbotsmarket.com/bots/the-bouncer?utm_source=github&utm_medium=readme&utm_campaign=awesome-grok-bots"><b>The Bouncer</b></a><br>
+Check your X followers for suspected bots, dead follows, and real fans.<br>
+<a href="https://x.ai/bot/P7qXlM4_hZtPMQz3Ayq0w">Add to Grok Bot</a>
 </td>
 </tr>
 </table>
